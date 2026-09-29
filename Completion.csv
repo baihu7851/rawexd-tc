@@ -741,7 +741,7 @@ int32,str,str,str
 1903,,泰坦,taitan
 1904,,迦樓羅,jialouluo
 1905,,巴哈姆特,bahamute
-1906,,莫古爾·莫古XII世,moguermogushiershi
+1906,,莫古爾・莫古XII世,moguermogushiershi
 1907,,蠻族,manzu
 1908,,蜥蜴人,xiyiren
 1909,,風精靈,yaojing
@@ -831,8 +831,8 @@ int32,str,str,str
 2024,,強攻戰,qianggongzhan
 2025,,大型任務,daxingrenwu
 2026,,鬥技場,jingjichang
-2027,,托托·拉克千獄,tuotuolakeqianyu
-2028,,塔姆·塔拉墓園,tamutalamuyuan
+2027,,托托・拉克千獄,tuotuolakeqianyu
+2028,,塔姆・塔拉墓園,tamutalamuyuan
 2029,,銅鈴銅山,tonglingtongshan
 2030,,沙斯塔夏溶洞,shasitaxiarongdong
 2031,,黃金谷,huangjingu
@@ -873,7 +873,7 @@ int32,str,str,str
 2066,,極 伊弗利特殲滅戰,yifulitejianjizhan
 2067,,極 泰坦殲滅戰,taitanjianjizhan
 2068,,極 迦樓羅殲滅戰,jialouluojianjizhan
-2069,,善王莫古爾·莫古XII世殲滅戰,mogulixianwangjianmiezhan
+2069,,善王莫古爾・莫古XII世殲滅戰,mogulixianwangjianmiezhan
 2070,,究極幻想 究極武器破壞作戰,jiujishenbingjiaxiangzuozhan
 2071,,水晶塔,shuijingta
 2072,,邂逅之章,xiehouzhizhang
@@ -883,7 +883,7 @@ int32,str,str,str
 2076,,隨機任務,suijirenwu
 2077,,入侵之章,ruqinzhizhang
 2078,,天狼星燈塔,tianlangxingdengta
-2079,,極王莫古爾·莫古XII世殲滅戰,mogulixianwangjianjizhan
+2079,,極王莫古爾・莫古XII世殲滅戰,mogulixianwangjianjizhan
 2080,,真 利維坦殲滅戰,liweiyasangjianmiezhan
 2081,,極 利維坦殲滅戰,liweiyasangjianjizhan
 2082,,死化奇美拉討伐戰,sihuaqimeilataofazhan
@@ -1018,6 +1018,8 @@ int32,str,str,str
 2219,"Action[12958-13007,14476-14481]",【文理技能】,wenlijineng
 2220,"Action[11383-11431,18295-18325,23264-23267,23269-23273,23275-23288,23290-23290,34563-34582]",【青魔法】,qingmofa
 2221,"Action[20701-20770,22344-22356,23907-23922]",【失傳技能】,shichuanjineng
+2222,MKDSupportJob[0-12],【輔助職業】,-
+2223,"Action[41588-41592,41594-41612,41619-41631,41633-41636,41641-41651]",【輔助技能】,-
 2900,@,【職業量譜】,zhiyeliangpu
 2901,,忠義量譜,zhongyiliangpu
 2902,,忠義,zhongyi
@@ -1303,9 +1305,17 @@ int32,str,str,str
 4048,,宇宙探索,-
 4049,,宇宙工具,-
 4050,,探索任務,-
+4051,,知見,-
+4052,,知見等級,-
+4053,,輔助職業,-
+4054,,輔助技能,-
+4055,,幻影武器,-
 4056,,亞拉戈數理神典石,-
 4057,,聯合工程,-
 4058,,機甲行動,-
+4059,,十二城邦銀幣,-
+4060,,十二城邦金幣,-
+4061,,魔紋啟動憑證：力之塔,-
 5000,,大型任務,daxingrenwu
 5001,,每日挑戰,meiritiaozhan
 5002,,岩燕廟,yanyanmiao
@@ -1464,3 +1474,7 @@ int32,str,str,str
 5164,,澤蓮尼亞殲滅戰,-
 5165,,極 澤蓮尼亞殲滅戰,-
 5166,,永護塔底,-
+5167,,蜃景幻界新月島,-
+5168,,新月島南征之章,-
+5170,,緊急遭遇戰,-
+5171,,兩歧塔力之塔,-

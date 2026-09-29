@@ -147,13 +147,13 @@ int32,str,str,str,str,str
 142,葉大妖,,SE_Bt_Etc_MarimokunWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_MarimokunBye
 143,赤兔馬,,SE_Bt_Etc_SekitobaWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_SekitobaBye
 144,白帝神威,,SE_Bt_Etc_InugamiWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_InugamiBye
-145,拘束型魔導死亡爪,,SE_Bt_Etc_DeathClawWhistle,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_DeathClawBye
+145,拘束型魔導死亡厲爪,,SE_Bt_Etc_DeathClawWhistle,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_DeathClawBye
 146,魔象,,SE_Bt_Etc_ElephantWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_ElephantBye
 147,力氣大的魔象,,SE_Bt_Etc_ElephantWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_ElephantBye
 148,真獅鷲,,SE_Bt_Etc_GrifinWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_GrifinBye
 149,真獅鷲,,SE_Bt_Etc_GrifinWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_GrifinBye
 150,暴龍,,SE_Bt_Etc_TRexWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_TRexBye
-151,雷格里亞G型,,SE_Bt_Etc_CarWhistle,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_CarBye
+151,雷格里亞 TYPE-G,,SE_Bt_Etc_CarWhistle,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_CarBye
 152,飛天半心椅（右）,,SE_Bt_Etc_RightHeartWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_RightHeartBye
 153,飛天半心椅（左）,,SE_Bt_Etc_RightHeartWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_RightHeartBye
 154,杜彭老師,,SE_Bt_Etc_TyuponeWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_TyuponeBye
@@ -196,7 +196,7 @@ int32,str,str,str,str,str
 191,青蛙號M,,SE_Bt_Etc_DowarfWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_DowarfBye
 192,無瑕玲龍,,SE_Bt_Etc_BanshinryuuWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_BanshinryuuBye
 193,魔法飛床,,SE_Bt_Etc_ShroudBedWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_ShroudBedBye
-194,小惡精靈·阿里曼,,SE_Bt_Etc_AhrimanWhistle,SE_Bt_Etc_ChocoboWhistle_only,SE_Bt_Etc_AhrimanBye
+194,小惡精靈・阿里曼,,SE_Bt_Etc_AhrimanWhistle,SE_Bt_Etc_ChocoboWhistle_only,SE_Bt_Etc_AhrimanBye
 195,金斗雲,,SE_Bt_Etc_KintounWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_KintounBye
 196,,,SE_Bt_Etc_RakudaDragoneWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_RakudaDragoneBye
 197,鬥虎,,SE_Bt_Etc_ToraWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_ToraBye
@@ -232,7 +232,7 @@ int32,str,str,str,str,str
 227,,,SE_Bt_Etc_DTankWhistle,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_DTankBye
 228,吉胖喵沙發,,SE_Bt_Etc_YKWChairWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_YKWChairBye
 229,改良型魔導運輸器,,SE_Bt_Etc_HakaseIsuWhistle,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_HakaseIsuBye
-230,艾爾·圖,,SE_Bt_Etc_ErtoWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_ErtoBye
+230,艾爾・圖,,SE_Bt_Etc_ErtoWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_ErtoBye
 231,英西塔土斯,,SE_Bt_Etc_UnicornWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_UnicornBye
 232,雪人,,SE_Bt_Etc_SnowmanWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_SnowmanBye
 233,真月魔導鯨,,SE_Bt_Etc_FF4MadosenWhistle,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_FF4MadosenBye
@@ -300,7 +300,7 @@ int32,str,str,str,str,str
 295,,,SE_Bt_Etc_Mount_HippoCar_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_HippoCar_bye
 296,,,SE_Bt_Etc_Mount_HippoCar_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_HippoCar_bye
 297,旅行協助機,,SE_Bt_Etc_Mount_MainteRobo_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_MainteRobo_bye
-298,繆·繆咻,,SE_Bt_Etc_Mount_SpaceJellyfish_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_SpaceJellyfish_bye
+298,繆・繆咻,,SE_Bt_Etc_Mount_SpaceJellyfish_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_SpaceJellyfish_bye
 299,幻奇獵鷹,,SE_Bt_Etc_BirdWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_BirdBye
 300,魔法雨傘,,SE_Bt_Etc_Mount_Umbrella_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_Umbrella_bye
 301,魔法陽傘,,SE_Bt_Etc_Mount_Umbrella_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_Umbrella_bye
@@ -330,7 +330,7 @@ int32,str,str,str,str,str
 325,暗影猞猁,,SE_Bt_Etc_Mount_Maju_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_Maju_bye
 326,托加爾,,SE_Bt_Etc_Mount_SXT_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_SXT_bye
 327,方舟,,SE_Bt_Etc_Mount_CEArk_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_CEArk_bye
-328,巴哈姆特·幽願,,SE_Bt_Etc_Mount_FF4-Bahamut_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_FF4-Bahamut_bye
+328,巴哈姆特・幽願,,SE_Bt_Etc_Mount_FF4-Bahamut_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_FF4-Bahamut_bye
 329,弦月,,SE_Bt_Etc_Mount_Tsuki_to_Leporrit_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_Tsuki_to_Leporrit_bye
 330,糖豆犀牛,,SE_Bt_Etc_Mount_FGS_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_FGS_bye
 331,壓迫者,,SE_Bt_Etc_Mount_Yosai_2soku_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_Yosai_2soku_bye
@@ -374,8 +374,8 @@ int32,str,str,str,str,str
 369,,,SE_Bt_Etc_Mount_BigManatee_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_BigManatee_bye
 370,,,,,
 371,,,,,
-372,,,,,
-373,,,,,
+372,惡魔板,,SE_Bt_Etc_Mount_DemonWallMKD_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_DemonWallMKD_call_bye
+373,瓣齒鯊,,SE_Bt_Etc_Mount_SameNingen_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_SameNingen_bye
 374,雪人裝扮,,SE_Bt_Etc_SnowmanWhistle,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_SnowmanBye
 375,,,,,
 376,,,,,
@@ -383,9 +383,9 @@ int32,str,str,str,str,str
 378,CHL W-0001,,,,
 379,,,,,
 380,,,,,
-381,,,,,
+381,擬鳥枝,,SE_Bt_Etc_Mount_ShinpiTori_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_ShinpiTori_bye
 382,飛梭C9,,SE_Bt_Etc_Mount_SolutionNineCar_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_SolutionNineCar_bye
-383,,,,,
+383,古代魔法船,,SE_Bt_Etc_Mount_MKDHikousen_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_MKDHikousen_bye
 384,,,,,
 385,高機動型動力裝甲,,SE_Bt_Etc_Mount_WKSMech1_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_WKSMech1_bye
 386,,,,,
@@ -393,7 +393,7 @@ int32,str,str,str,str,str
 388,進擊的好腦袋,,SE_Bt_Etc_Mount_Mandragora_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_Mandragora_bye
 389,騎士之翼,,SE_Bt_Etc_Mount_Wing_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_Wing_bye
 390,魔導螳螂,,SE_Bt_Etc_Mount_KamakiriMech_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_KamakiriMech_bye
-391,,,,,
+391,,,SE_Bt_Etc_Mount_ShinpiTori_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_ShinpiTori_bye
 392,,,,,
 393,,,,,
 394,,,,,

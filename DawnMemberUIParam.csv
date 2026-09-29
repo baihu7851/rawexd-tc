@@ -8,11 +8,11 @@ int32,str,str,str
 3,Gunbreaker,桑克瑞德,絕槍戰士
 4,Oracle of Light,敏菲利亞,光之巫女
 5,Astrologian,尤里安傑,占星術師
-6,Sorceress,雅·修朵拉,魔女
+6,Sorceress,雅・修朵拉,魔女
 7,Oracle of Light,琳,光之巫女
 8,Guard Captain,萊楠,衛兵團長
 9,All-Rounder,水晶公,全才
-10,All-Rounder,古·拉哈·提亞,全才
+10,All-Rounder,古・拉哈・提亞,全才
 11,Sage,阿爾菲諾,賢者
 12,Dragoon,艾斯蒂尼安,龍騎士
 13,Lithomancer,尤里安傑,秘石術士
@@ -37,14 +37,14 @@ int32,str,str,str
 32,Temple Banneret,神殿騎士團槍騎兵,槍騎兵
 33,Temple Chirurgeon,神殿騎士團醫師,醫師
 34,Chivalric Knight,奧爾什方,正騎士
-35,Poroggo,佩羅·羅格,智蛙
+35,Poroggo,佩羅・羅格,智蛙
 36,Lord Commander,艾默里克,總騎士長
 37,Knight,福爾唐家的騎士,騎士
 38,Banneret,福爾唐家的槍騎兵,槍騎兵
 39,Archer,福爾唐家的射手,射手
 40,Archon,桑克瑞德,賢人
 41,Memoriate,零,憶晶師
-42,Archon,雅·修朵拉,賢人
+42,Archon,雅・修朵拉,賢人
 43,Marauder,卡爾瓦蘭,斧術士
 44,Pugilist,莉瑟,格鬥士
 45,Samurai,豪雪,武士
@@ -58,8 +58,8 @@ int32,str,str,str
 53,Gladiator,阿雷恩瓦爾德,劍術士
 54,Pugilist,莉瑟,格鬥士
 55,Champion Gladiator,勞班,劍鬥士
-56,Lancer,嘉·莫爾巴,槍術士
-57,Intrepid,烏克·拉瑪特,勇士
+56,Lancer,嘉・莫爾巴,槍術士
+57,Intrepid,烏克・拉瑪特,勇士
 58,Viper,佐拉加,毒蛇劍士
 59,Innovator,柯納,革新者
 60,Pictomancer,可露兒,繪靈法師

@@ -497,7 +497,7 @@ int32,str
 492,JobGauge2
 493,職業量譜2
 494,PvP Role Action
-495,對戰專用職能技能
+495,PvP專用職能技能
 1000,<hex:3C>t>
 1001,<hex:3C>目標>
 1002,<hex:3C>tt>
